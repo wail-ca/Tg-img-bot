@@ -2,7 +2,7 @@
 
 Bot with ability to write on a specific image
 
-![image]([https://github.com/wail-ca/Tg-img-bot/blob/main/design.png])
+![image](https://github.com/wail-ca/Tg-img-bot/blob/main/design.png)
 
 
 ⚠️ Arabic language is not supported by default by Pillow package
