@@ -8,7 +8,7 @@ from telebot.asyncio_handler_backends import State, StatesGroup
 from telebot.asyncio_storage import StateMemoryStorage
 
 # Add your bot token here
-API_TOKEN = "7518414638:AAHDom154m9cyeX9fxplIOd01jQLZWD3HqY"
+API_TOKEN = "BOT_TOKEN"
 bot = AsyncTeleBot(API_TOKEN)
 
 # Configuration
